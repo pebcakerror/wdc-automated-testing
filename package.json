@@ -1,0 +1,19 @@
+{
+  "name": "web-design-contest-automated-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pebcakerror/web-design-contest-automated-testing.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/pebcakerror/web-design-contest-automated-testing/issues"
+  },
+  "homepage": "https://github.com/pebcakerror/web-design-contest-automated-testing#readme"
+}
